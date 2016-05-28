@@ -1,0 +1,23 @@
+> cms default 
+-> user management
+-> user group management
+-> user permission  management -> read/group permission number 
+-> category management(data model - table mapping) -> group/criteria 
+-> page management (create page - read/write data config)
+
+> database design
+
+
+
+
+Login 
+->select user group 
+->setup cookies
+->verify email (optional)
+->password reset (optional/ admin reset to default password)
+->password change 
+->AD Login
+
+
+
+

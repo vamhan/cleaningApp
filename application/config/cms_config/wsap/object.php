@@ -1,0 +1,1 @@
+O:4:"wsap":9:{s:9:"logindata";a:5:{s:6:"ASHOST";s:12:"192.191.0.17";s:5:"SYSNR";s:2:"00";s:6:"CLIENT";s:3:"900";s:4:"USER";s:6:"abap01";s:6:"PASSWD";s:8:"psgsap09";}s:8:"rfc_conn";i:0;s:7:"func_id";b:0;s:16:"show_status_flag";b:1;s:17:"check_bapi_errors";b:0;s:6:"status";s:0:"";s:12:"status_infos";s:0:"";s:5:"debug";b:0;s:20:"call_function_result";b:0;}

@@ -1,0 +1,174 @@
+/******************************/
+/******************************/
+/*********** SCREEN LAYOUT ***********/
+/******************************/
+/******************************/
+
+
+
+/*==========  Mobile First Method  ==========*/
+
+
+	/* SCREEN MIN WIDTH 1024px  ::  Custom-L Devices, Wide Screens */
+	@media only screen and (min-width : 1024px) {
+		body.debug{
+			background: green;
+		}	
+		.back_debug{
+			background-color: green;
+		}
+
+		.ft_search_track{
+			width: 60px !important;
+
+		}
+		.div-remark-group{
+			width: 20px !important;
+		}
+		.input-remark-group{
+			width: 30px !important;
+		}
+		.claim-button{
+			margin-left: 3px !important;
+			width: 63px !important;
+			font-size: 12px !important;
+			padding: 7px 10px 7px 2px !important
+		}
+
+		.change-page-ft{
+			margin-left: 0px !important;
+		}
+
+		.radio-exit,.radio-notexit{ width:20px !important;}
+		.radio-condition{ width:30px !important;}
+		
+		#ft_status{ width: 80px !important; font-size: 1em;}
+		
+	}
+
+
+	/* SCREEN MIN WIDTH 1199px  ::  Custom-L Devices, Wide Screens */
+	@media only screen and (min-width : 1199px) {
+		body.debug{
+			background: pink
+		}
+
+		.back_debug{
+			background-color: red;
+		}
+
+		.ft_search_track{
+			width: 85px !important; 
+		}
+
+
+		.div-remark-group{
+			width: 80px !important;
+		}
+		.input-remark-group{
+			width: 50px !important;
+		}
+		.claim-button{
+			margin-left: 10px !important;
+			width: 80px !important;
+			font-size: 14px !important;
+			padding: 6px 10px 6px 2px !important
+		}
+
+		.change-page-ft{
+			margin-left: 170px !important;
+		}
+		.radio-exit,.radio-notexit{ width:50px !important;}
+		.radio-condition{ width:50px !important;}
+
+		#ft_status{ width: 110px !important;}
+		
+	}
+
+
+
+	/* SCREEN MIN WIDTH 1399px  ::  Custom-L Devices, Wide Screens */
+	@media only screen and (min-width : 1399px) {
+		body.debug{
+			background: red;
+		}
+
+		.back_debug{
+			background-color: red;
+		}
+
+		.ft_search_track{
+			width: 110px !important; 
+		}
+
+
+		.div-remark-group{
+			width: 180px !important;
+		}
+		.input-remark-group{
+			width: 150px !important;
+		}
+		.claim-button{
+			margin-left: 15px !important;
+			width: 100px !important;
+			font-size: 14px !important;
+			padding: 6px 10px 6px 2px !important
+		}
+
+		.change-page-ft{
+			margin-left: 300px !important;
+		}
+		.radio-exit,.radio-notexit{ width:50px !important;}
+		.radio-condition{ width:70px !important;}
+
+		#ft_status{ width: 110px !important;}
+		
+	}
+	
+	/* SCREEN MIN WIDTH 1500px  ::  Custom-L Devices, Wide Screens */
+	@media only screen and (min-width : 1500px) {
+		body.debug{
+			background: #ccc;
+		}
+
+		.back_debug{
+			background-color: red;
+		}
+
+		.ft_search_track{
+			width: 110px !important; 
+		}
+
+
+		.div-remark-group{
+			width: 180px !important;
+		}
+		.input-remark-group{
+			width: 150px !important;
+		}
+		.claim-button{
+			margin-left: 15px !important;
+			width: 100px !important;
+			font-size: 14px !important;
+			padding: 6px 10px 6px 2px !important
+		}
+
+		.change-page-ft{
+			margin-left: 350px !important;
+		}
+		.radio-exit,.radio-notexit{ width:60px !important;}
+		.radio-condition{ width:90px !important;}
+
+		#ft_status{ width: 110px !important;}
+		
+	}
+
+	/*==========  Non-Mobile First Method  ==========*/
+
+	
+
+
+
+
+
+	
